@@ -8,7 +8,7 @@
 -->
 
 # Communicate using Markdown
-
+#主要标题
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -22,7 +22,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
-
+##二级标题
 _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
@@ -34,7 +34,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
 ### Example
-
+###三级标题
 ```md
 # This is an `<h1>` header, which is the largest
 
@@ -44,13 +44,13 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ```
 
 #### How it looks
-
+####四级标题
 # This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
-
+######六级标题
 ### :keyboard: Activity: Edit your file with headers
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
@@ -73,7 +73,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
-
+！[一只小猫]https://[www.githubstatus.com/](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull)
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
